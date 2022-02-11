@@ -1,2 +1,3 @@
 Q: Why do we need to delete the existing data? A: Can't insert same value (PK) again because value is unique.
 --> Have to wipe time table every time before calling load calendar
+
