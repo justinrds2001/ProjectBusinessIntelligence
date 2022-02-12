@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Justinrds2001_Galaxy", "Justinrds2001_Galaxy\Justinrds2001_Galaxy.dwproj", "{18EF005B-AC34-4884-94F1-B4201FD72CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EF005B-AC34-4884-94F1-B4201FD72CEE}.Development|Default.ActiveCfg = Development
+		{18EF005B-AC34-4884-94F1-B4201FD72CEE}.Development|Default.Build.0 = Development
+		{18EF005B-AC34-4884-94F1-B4201FD72CEE}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A53326-9AA9-422E-9827-F715F76AACED}
+	EndGlobalSection
+EndGlobal
